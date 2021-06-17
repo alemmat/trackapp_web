@@ -1,0 +1,1 @@
+curl  -H 'Content-Type: application/json' -H "Authorization: Bearer 1|sYQzuXVG9qYiCqM025sqXzpOIb9GsZqktLVxDufE" --request POST --data '{"latitude":"0.3","longitude":"0.1","track_id":1}' http://localhost/api/position
